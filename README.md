@@ -4,4 +4,4 @@
 
   Mainly modify code in /base/ntos/mm/addrsup.c
 
-  See more in report.pdf. CopyRight Yu Wang
+  See more details in report.pdf. CopyRight Yu Wang
