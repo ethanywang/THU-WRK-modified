@@ -1,9 +1,9 @@
 # WRK modified
 
-  Project for operation system.
+  Project for Course "operation system".
 
-  Mainly modify code in /base/ntos/mm/addrsup.c
-
+  Modify the tree structure of virtual address descriptor from AVLTree to Red-Black Tree.
+  
   See more details in report.pdf (In chinese. Sorry for not having time to translate it) 
   
   CopyRight Yu Wang
